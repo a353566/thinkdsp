@@ -7,8 +7,6 @@ Created on Tue May  3 15:01:11 2016
 import thinkdsp
 import thinkplot
 
-import numpy as np
-import pylab as pl
 import pandas as pd
 
 df = pd.read_csv('_taiwanStock.csv', parse_dates=[0])
